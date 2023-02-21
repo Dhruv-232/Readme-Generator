@@ -63,6 +63,9 @@ ${data.test}
 
 ${data.usage}
 
+## Team
+
+${data.team}
 `;
 }
 
