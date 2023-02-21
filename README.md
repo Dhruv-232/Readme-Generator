@@ -1,9 +1,9 @@
-# asd
-  ![GitHub license](https://img.shields.io/badge/license-Other-blue.svg)
+# afsdfa
+  ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
 
   ## Description
 
-  aasdfasfasfasfdafadfafda
+  dasfa
   
   ## Table of Contents 
 
@@ -24,6 +24,14 @@
 To install necessary dependencies, run the following command:
 
 ```
-safds
+afsd
+```
+
+## Tests
+
+To run tests, run the following command:
+
+```
+teregatetae
 ```
 
