@@ -66,6 +66,13 @@ ${data.usage}
 ## Team
 
 ${data.team}
+
+${renderLicenseSection(data.license)}
+  
+## Contributing
+
+${data.contributing}
+
 `;
 }
 

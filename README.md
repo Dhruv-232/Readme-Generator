@@ -1,9 +1,9 @@
-# asd
-  ![GitHub license](https://img.shields.io/badge/license-BSD3-blue.svg)
+# fsdasfd
+  ![GitHub license](https://img.shields.io/badge/license-LGPL-blue.svg)
 
   ## Description
 
-  asdf
+  asfd
   
   ## Table of Contents 
 
@@ -24,7 +24,7 @@
 To install necessary dependencies, run the following command:
 
 ```
-afsd
+afda
 ```
 
 ## Tests
@@ -32,13 +32,20 @@ afsd
 To run tests, run the following command:
 
 ```
-asdf
+tetetradsiaofjalsf
 ```
 
 ## Usage
 
-asdf
+asfdaklfsdafs
 
 ## Team
 
-asdf
+afd
+
+undefined
+  
+## Contributing
+
+fafds
+
