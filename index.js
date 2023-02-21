@@ -47,6 +47,22 @@ const questions = [
         name: 'license',
         choices:  ['MIT', 'BSD3', 'LGPL', 'Apache', 'Other', 'None'],
     },
+    {
+        type: 'input',
+        message: 'How do you want to use your app',
+        name: 'usage'
+    },
+    {
+        type: 'input',
+        message: 'How do you want to test your app',
+        name: 'test'
+    },
+    {
+        type: 'input',
+        message: 'How do you want to contribute to this app',
+        name: 'contributing'
+    },
+
 
 ];
 
