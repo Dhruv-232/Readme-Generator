@@ -1,9 +1,9 @@
-# fsdasfd
-  ![GitHub license](https://img.shields.io/badge/license-LGPL-blue.svg)
+# afs
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
 
-  asfd
+  afsd
   
   ## Table of Contents 
 
@@ -24,7 +24,7 @@
 To install necessary dependencies, run the following command:
 
 ```
-afda
+asdf
 ```
 
 ## Tests
@@ -32,20 +32,24 @@ afda
 To run tests, run the following command:
 
 ```
-tetetradsiaofjalsf
+afdsss
 ```
 
 ## Usage
 
-asfdaklfsdafs
+afdfadfas
 
 ## Team
 
-afd
+asfd
 
 undefined
   
 ## Contributing
 
-fafds
+sadsasno no
+
+## Questions
+
+If you have any questions about the repo,  contact me directly at asdf. You can find more of my apps at [sdaf](https://github.com/sdaf/).
 
