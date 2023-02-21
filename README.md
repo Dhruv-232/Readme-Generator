@@ -1,2 +1,2 @@
-# Readme-Generator
-Generates Readme file using node js
+# afs
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
