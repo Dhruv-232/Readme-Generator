@@ -71,7 +71,7 @@ ${data.test}
 
 ## Usage
 
-${data.usage}
+${data.command}
 
 ## Team
 

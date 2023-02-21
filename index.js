@@ -49,11 +49,6 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'How do you want to use your app',
-        name: 'usage'
-    },
-    {
-        type: 'input',
         message: 'How do you want to test your app',
         name: 'test'
     },

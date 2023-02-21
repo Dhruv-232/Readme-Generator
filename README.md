@@ -1,9 +1,9 @@
-# adsf
-  
+# readme generator
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
 
-  grs
+  this is a readme generator
   
   ## Table of Contents 
 
@@ -12,6 +12,8 @@
 * [Usage](#usage)
 
 * [Team](#team)
+
+* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -24,7 +26,7 @@
 To install necessary dependencies, run the following command:
 
 ```
-dgs
+a lot
 ```
 
 ## Tests
@@ -32,24 +34,26 @@ dgs
 To run tests, run the following command:
 
 ```
-yes
+computer
 ```
 
 ## Usage
 
-no
+ctrl c
 
 ## Team
 
-gcxg
+everyone
 
+## License
 
+This project is licensed under the MIT license.
   
 ## Contributing
 
-no
+computer
 
 ## Questions
 
-If you have any questions about the repo,  contact me directly at e435rdt. You can find more of my apps at [adsfa](https://github.com/adsfa/).
+If you have any questions about the repo,  contact me directly at adsfasfd@outlook.com. You can find more of my apps at [asfafa](https://github.com/asfafa/).
 
