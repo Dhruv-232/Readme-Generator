@@ -1,19 +1,29 @@
-# Readme generator
-  ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
+# asd
+  ![GitHub license](https://img.shields.io/badge/license-Other-blue.svg)
 
   ## Description
 
-  this is a readme generator
+  aasdfasfasfasfdafadfafda
   
   ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Usage](#usage)
-undefined
+
+* [License](#license)
+
 * [Contributing](#contributing)
 
 * [Tests](#tests)
 
 * [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+```
+safds
+```
 

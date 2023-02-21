@@ -51,6 +51,14 @@ To install necessary dependencies, run the following command:
 ${data.installation}
 \`\`\`
 
+## Tests
+
+To run tests, run the following command:
+
+\`\`\`
+${data.test}
+\`\`\`
+
 `;
 }
 
