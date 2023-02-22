@@ -70,7 +70,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then(function (data) {
         console.log("data =", data)
-        var fileName = 'README.md';
+        var fileName = 'generatedREADME.md';
         writeToFile(fileName, generateMd({...data}))
     });
 }

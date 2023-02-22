@@ -1,9 +1,11 @@
-# readme generator
+# Readme Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
 
-  this is a readme generator
+  This is a readme generator made using node js. The user will be presented with a set of questions and based on the answers the readme file will be generated for the user.
+  
+  ![](Gif.gif)
   
   ## Table of Contents 
 
@@ -26,7 +28,7 @@
 To install necessary dependencies, run the following command:
 
 ```
-a lot
+npm install
 ```
 
 ## Tests
@@ -34,16 +36,16 @@ a lot
 To run tests, run the following command:
 
 ```
-computer
+By running it in the terminal
 ```
 
 ## Usage
 
-ctrl c
+npm test
 
 ## Team
 
-everyone
+Dhruv Sharma
 
 ## License
 
@@ -51,9 +53,8 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-computer
+By refining the code more and make it more presentable
 
 ## Questions
 
-If you have any questions about the repo,  contact me directly at adsfasfd@outlook.com. You can find more of my apps at [asfafa](https://github.com/asfafa/).
-
+If you have any questions about the repo,  contact me directly at dhruvisgreat@outlook.com. You can find more of my apps at [Dhruv-232](https://github.com/Dhruv-232/).
